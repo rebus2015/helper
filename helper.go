@@ -3,7 +3,7 @@ package helper
 import "fmt"
 
 func Action(a int, b int) int {
-	return a + b
+	return a * b
 }
 
 // Hi returns a friendly greeting
