@@ -8,5 +8,5 @@ func Action(a int, b int, c int) int {
 
 // Hi returns a friendly greeting
 func Hi(name string) string {
-	return fmt.Sprintf("Hi, %s", name)
+	return fmt.Sprintf("Hi, %s!", name)
 }
