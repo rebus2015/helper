@@ -2,8 +2,8 @@ package helper
 
 import "fmt"
 
-func Action(a int, b int) int {
-	return a * b
+func Action(a int, b int, c int) int {
+	return a * b * c
 }
 
 // Hi returns a friendly greeting
